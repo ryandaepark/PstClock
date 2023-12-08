@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is my first attempt at front-end development using React.js. This project creates a simple PST clock that works real time. 
+This is my first front-end project using React.js. This project creates a simple PST clock that works real time. 
 
 
 ### Built With
@@ -34,12 +34,6 @@ This is my first attempt at front-end development using React.js. This project c
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
 ### Installation
 
 1. Clone the repo
